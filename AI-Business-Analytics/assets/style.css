@@ -1,0 +1,20 @@
+/* ===== Sidebar ===== */
+
+section[data-testid="stSidebar"]{
+    background-color:#0F172A;
+}
+
+section[data-testid="stSidebar"] *{
+    color:white !important;
+}
+
+div[data-testid="stRadio"] label{
+    color:white !important;
+    font-weight:bold;
+}
+
+.stButton>button{
+    background:#2563EB;
+    color:white;
+    border-radius:10px;
+}
